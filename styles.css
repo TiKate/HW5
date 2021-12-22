@@ -6,6 +6,15 @@
     color: orange;
     font-size: 30px;
 }
+.title1 {
+    color: mediumslateblue;
+}
+.title2 {
+    color: hotpink;
+}
 .title3 {
     color: red;
+}
+.text {
+    color: green;
 }
